@@ -1,0 +1,12 @@
+<MCParameters>
+	<S>1</S>
+	<kT>0.025</kT>
+	<hbaromega>0.2</hbaromega>
+	<lambdaO>0.1</lambdaO>
+	<tmax>1E-12</tmax>
+	<dt>1E-16</dt>
+	<ratevib>1E13</ratevib>
+	<nameenergy>tmpenergies.txt</nameenergy>
+	<nameedges>tmpedges.txt</nameedges>
+	<nameproperties>tmpproperties.txt</nameproperties>
+</MCParameters>
